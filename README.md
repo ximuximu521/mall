@@ -1,6 +1,6 @@
 # mall
 
-## 说明
+## 说明。。。
 
 > 基于SpringBoot+MyBatis的电商系统，包括前台商城系统及后台管理系统。
 
@@ -29,7 +29,7 @@
 前端项目`mall-admin-web`地址：https://github.com/macrozheng/mall-admin-web 
 
 项目演示地址： [http://39.98.190.128/index.html](http://39.98.190.128/index.html)  
-  
+
 ![后台管理系统功能演示.gif](https://github.com/macrozheng/mall/blob/master/document/resource/mall-admin.gif)
 
 > 前台商城系统
